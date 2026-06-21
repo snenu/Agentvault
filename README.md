@@ -12,8 +12,7 @@ Production frontend:
 https://agentvault-t3.vercel.app
 https://agentvault-terminal3.vercel.app
 ```
-
-There is no separate Render backend in the current build. Server behavior lives in Next API routes under `frontend/app/api`, so Vercel hosts both the UI and API.
+ 
 
 ## What It Does
 
@@ -229,10 +228,4 @@ Production smoke test also passed against `https://agentvault-t3.vercel.app` aft
 - Terminal3 live handshake rendered authenticated DID
 - desktop and mobile pages rendered without console issues
 
-## Security Notes
-
-- Never commit `.env.local`, raw API keys, or raw Terminal3 credentials.
-- AgentVault returns temporary references, not raw secret values.
-- Mutating API routes require a signed console session or operator token.
-- Approval cannot be spoofed with a boolean; it requires a server-signed approval token.
-- Live Terminal3 execution fail-closes: if contract execution fails, no credential reference is issued.
+ 
