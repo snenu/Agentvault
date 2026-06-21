@@ -1,0 +1,16 @@
+{
+  "name": "AgentVault",
+  "short_name": "AgentVault",
+  "description": "Secure secret manager for AI agents powered by Terminal3 identity, policy, and TEE workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F4F0",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

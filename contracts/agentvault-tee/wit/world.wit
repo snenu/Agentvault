@@ -1,0 +1,11 @@
+package z:agentvault@0.1.2;
+
+world agentvault {
+  export contracts;
+}
+
+interface contracts {
+  issue-temp-credential: func(input: list<u8>) -> result<list<u8>, string>;
+  revoke-temp-credential: func(input: list<u8>) -> result<list<u8>, string>;
+  proxy-with-placeholders: func(input: list<u8>) -> result<list<u8>, string>;
+}

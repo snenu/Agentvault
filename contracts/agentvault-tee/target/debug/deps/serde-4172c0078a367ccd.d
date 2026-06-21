@@ -1,0 +1,14 @@
+C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\deps\serde-4172c0078a367ccd.d: C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\build\serde-232877cbaa1448e8\out/private.rs
+
+C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\deps\libserde-4172c0078a367ccd.rlib: C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\build\serde-232877cbaa1448e8\out/private.rs
+
+C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\deps\libserde-4172c0078a367ccd.rmeta: C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\build\serde-232877cbaa1448e8\out/private.rs
+
+C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\parth\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\debug\build\serde-232877cbaa1448e8\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\parth\\Desktop\\AgentVault\\contracts\\agentvault-tee\\target\\debug\\build\\serde-232877cbaa1448e8\\out

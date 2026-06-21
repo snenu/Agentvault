@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=static=wit_bindgen_cabi0_49_0
+cargo:rustc-link-search=native=C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\wasm32-wasip2\release\build\wit-bindgen-76dd7c6fd9ebe95d\out

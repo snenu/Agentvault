@@ -1,0 +1,1 @@
+C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\target\wasm32-wasip2\release\libagentvault_tee.rlib: C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\src\lib.rs C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\src\vault.rs C:\Users\parth\Desktop\AgentVault\contracts\agentvault-tee\wit\world.wit
